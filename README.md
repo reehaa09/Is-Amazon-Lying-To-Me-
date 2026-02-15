@@ -48,8 +48,7 @@ We went through three sketch iterations before arriving at the final design:
 
 | Sketch | Approach | Why We Moved On |
 |--------|----------|-----------------|
-| 1 | Bar chart (trust gap) + line chart (price)<img width="381" height="505" alt="Screenshot 2026-02-15 at 6 51 14 PM" src="https://github.com/user-attachments/assets/60416ab8-21b3-47bd-af4f-7a4ecccbfa7d" />
- | Messy with mixed positive/negative values |
-| 2 | Bar chart + circles for price | Cleaner, but didn't convey the relationship effectively |
-| 3 | Scatter plot with bubble sizes | Perfect on paper, but small bubbles disappeared in Tableau |
+| 1 | Bar chart (trust gap) + line chart (price)<img width="381" height="505" alt="Screenshot 2026-02-15 at 6 51 14 PM" src="https://github.com/user-attachments/assets/60416ab8-21b3-47bd-af4f-7a4ecccbfa7d" /> | Messy with mixed positive/negative values |
+| 2 | Bar chart + circles for price<img width="286" height="389" alt="Screenshot 2026-02-15 at 6 52 14 PM" src="https://github.com/user-attachments/assets/694b873c-f3d5-445f-abcb-38d04f609251" /> | Cleaner, but didn't convey the relationship effectively |
+| 3 | Scatter plot with bubble sizes<img width="329" height="381" alt="Screenshot 2026-02-15 at 6 52 40 PM" src="https://github.com/user-attachments/assets/d075d9f2-7438-446c-ba9f-d430bc6a0476" /><img width="531" height="523" alt="Screenshot 2026-02-15 at 6 53 22 PM" src="https://github.com/user-attachments/assets/e6469ae0-e2b4-4e00-9500-865f9fc67281" /> | Perfect on paper, but small bubbles disappeared in Tableau |
 | **Final** | **Animated scatter plot with ghost trails** | **Clear, engaging, and informative** |
