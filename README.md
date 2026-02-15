@@ -1,4 +1,4 @@
-# Is-Amazon-Lying-To-Me-
+# Is Amazon Lying To Me
 View visualization here: https://public.tableau.com/shared/DR9WKCS8Q?:display_count=n&:origin=viz_share_link
 ## Overview
 
