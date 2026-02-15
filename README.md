@@ -48,7 +48,8 @@ We went through three sketch iterations before arriving at the final design:
 
 | Sketch | Approach | Why We Moved On |
 |--------|----------|-----------------|
-| 1 | Bar chart (trust gap) + line chart (price) | Messy with mixed positive/negative values |
+| 1 | Bar chart (trust gap) + line chart (price)<img width="381" height="505" alt="Screenshot 2026-02-15 at 6 51 14 PM" src="https://github.com/user-attachments/assets/60416ab8-21b3-47bd-af4f-7a4ecccbfa7d" />
+ | Messy with mixed positive/negative values |
 | 2 | Bar chart + circles for price | Cleaner, but didn't convey the relationship effectively |
 | 3 | Scatter plot with bubble sizes | Perfect on paper, but small bubbles disappeared in Tableau |
 | **Final** | **Animated scatter plot with ghost trails** | **Clear, engaging, and informative** |
